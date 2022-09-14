@@ -1,2 +1,2 @@
 # react-beautiful-dnd
-"react-beautiful-dndをいじいじしています。"
+react-beautiful-dndをいじいじしています。
